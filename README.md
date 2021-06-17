@@ -42,9 +42,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/deep-mehta-0560a7192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Deep%20Amit%20Mehta-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/deep_mehta_007/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:mehtadeep2013@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/deep-mehta-0560a7192/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Deep%20Mehta-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/deep_mehta_007/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-deep_mehta_007-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:mehtadeep2013@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mehtadeep2013@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
